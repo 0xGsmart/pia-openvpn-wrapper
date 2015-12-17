@@ -14,6 +14,6 @@ This project aims to provide that fix.
 An `openvpn.log` file will still exist, but will be minimal in size, and be cleared out every time you restart PIA / your computer.
 
 ## How it works
-PIA keep openvpn in standard verbose mode. This means a great detail of information is logged. This application acts as a wrapper, putting openvpn into silent mode and deleting any old logs.
+PIA keeps openvpn in standard verbose mode. This means a great detail of information is logged. This application acts as a wrapper, putting openvpn into silent mode and deleting any old logs.
 
 You can examine the [source code](https://github.com/jbob182/pia-openvpn-wrapper/blob/master/Program.cs) for further information.
