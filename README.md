@@ -11,6 +11,8 @@ This project aims to provide that fix.
 * Place the downloaded `openvpn.exe` into your `pia_manager` folder
 * Start PIA
 
+An `openvpn.log` file will still exist, but will be minimal in size, and be cleared out every time you restart PIA / your computer.
+
 ## How it works
 PIA keep openvpn in standard verbose mode. This means a great detail of information is logged. This application acts as a wrapper, putting openvpn into silent mode and deleting any old logs.
 
