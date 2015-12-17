@@ -6,7 +6,7 @@ This project aims to provide that fix.
 ## Installation
 * Stop PIA
 * Find your `pia_manager` folder. This should be located at `C:\Program Files\pia_manager` or `C:\Program Files (x86)\pia_manager`
-* Rename the `openvpn.exe` file in the `pia_manager` folder to `openvpn-orig.exe`
+* Rename the `openvpn.exe` file in the `pia_manager` folder to `openvpn-orig`
 * Download the latest [Release](https://github.com/jbob182/pia-openvpn-wrapper/releases/download/v1.0.0/openvpn.exe)
 * Place the downloaded `openvpn.exe` into your `pia_manager` folder
 * Start PIA
